@@ -9,4 +9,5 @@ To run this project, here are the libraries that you need to install:
 5) scikit-learn
 
 Open your command line interface (CMD or PowerShell on Windows, Terminal on Mac/Linux) and enter:
-sadassd
+
+'pip install - y pandas numpy matplotlib seaborn scikit-learn scipy'
